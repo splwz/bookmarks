@@ -6,3 +6,4 @@
 * [Trading](https://github.com/splwz/bookmarks/blob/main/trading.md)
 * [Crypto](https://github.com/splwz/bookmarks/blob/main/crypto.md)
 * [HAM](https://github.com/splwz/bookmarks/blob/main/ham.md)
+* [Other](https://github.com/splwz/bookmarks/blob/main/other.md)
