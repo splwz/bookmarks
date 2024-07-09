@@ -42,6 +42,7 @@
 ## Microsoft Learn
 
 * [Search](https://learn.microsoft.com/en-us/microsoftsearch/overview-microsoft-search)
+* [Learn Credentials](https://learn.microsoft.com/en-us/credentials/browse/)
 * [PNP PowerShell](https://pnp.github.io/powershell/index.html)
 * [Fabric](https://learn.microsoft.com/en-us/fabric/get-started/)
 * [Copilot](https://learn.microsoft.com/en-us/copilot/microsoft-365/)
