@@ -15,7 +15,6 @@
 * [Viva Insights](https://insights.cloud.microsoft/?s=shell&user_email=Bas.Willemstijn@mn.nl#/PersonalApp/Home/)
 * [Viva Engage - Yammer](https://engage.cloud.microsoft/main/org/mn.onmicrosoft.com/feed?domainRedirect=true)
 * [Clipchamp](https://www.office.com/launch/clipchamp?auth=2)
-
 * [ChatGPT](https://chat.openai.com/)
 
 
