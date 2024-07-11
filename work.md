@@ -5,6 +5,7 @@
 * [Fortes Urenregistratie](https://mn.fortes-online.com/hours/#/f1fd1af0-6f1a-4591-a4a3-731810ed5be6/Tenant/aed01936-166c-420e-866e-000018d10c8f)
 * [Mobile Expense](https://xp1.mobilexpense.com/Home/login)
 * [Sogeti Smart Workspace](https://mijnwerkplek.mn.nl/?sso=1)
+* [Citrix receiver toegang tot ManagementVM](https://citrix.mn.nl/Citrix/FASWeb/) [w10 credential mgr](Control Panel\User Accounts\Credential Manager) [Network drive](\\vmmigratep01\c$)
 * [WOW app](https://mn.powerapp.nl/app/login)
 * [Microsoft My Account](https://myaccount.microsoft.com/)
 * [Citrix Gateway](https://werkplek.mn.nl/vpn/index.html)
