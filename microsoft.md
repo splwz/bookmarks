@@ -21,6 +21,8 @@
 ## Microsoft 365 management
 
 * [Microsoft Services Hub - Tickets](https://serviceshub.microsoft.com/databoard?workspaceId=96ddb3b6-a94a-4624-8ff3-68b33de44b49)
+* [Microsoft Engage Center (a.k.a. Azure)](https://engagecenter.microsoft.com/#@mn.onmicrosoft.com/dashboard/private/b9cf4263-9b35-49f9-bb55-c6a85f3e6035)
+* [Microsoft Engage Services Hub](https://engagehub.microsoft.com/#view/Microsoft_AzureCXP_EngageHub/EngageHubMenuBlade/~/noaccess)
 * [Azure support Request](https://portal.azure.com/#create/Microsoft.Support)
 * [Microsoft Service Health Status](https://status.cloud.microsoft/)
 * [All admin pages](https://admin.microsoft.com/Adminportal/Home#/alladmincenters)
