@@ -14,6 +14,7 @@
 
 - [Coin360 Heatmap](https://coin360.com/)
 - [Fear and Greed index](https://alternative.me/crypto/fear-and-greed-index/)
+- [CNN fear and greed index](https://edition.cnn.com/markets/fear-and-greed)
 - [Google Trends Bitcoin, Crypto, Ethereum](https://trends.google.com/trends/explore?date=all&q=bitcoin,crypto,ethereum)
 - [Currency pairs of the greatest economies](https://www.tradingview.com/markets/currencies/rates-major/)
 - [Indices of the largest economies](https://www.tradingview.com/markets/indices/quotes-major/)
@@ -49,6 +50,7 @@
 - [DEXtools](https://www.dextools.io/app/en/pairs)
 - [Dropstab](https://dropstab.com/)
 - [Birdeye](https://birdeye.so/)
+- [How To Develop a GARCH Volatility Model for Bitcoin Prices](https://www.cryptodatadownload.com/blog/posts/develop-bitcoin-volatility-model-using-garch/)
 
 ### Tools
 
@@ -62,6 +64,11 @@
 - [lockchain database dumps](https://blockchair.com/dumps)
 - [Cryptoprices API](https://cryptoprices.cc/)
 - [Bitcoin Mempool Block](https://mempool.space/nl/mempool-block/0) & [overview](https://mempool.space/)
+- [ft-dashboard](https://github.com/stash86/ft-dashboard?tab=readme-ov-file)
+- [Technical TA library](https://github.com/freqtrade/technical)
+- [Freqtrade discord](https://github.com/freqtrade/technical)
+- [freqtrade_analysis_notebook](https://github.com/froggleston/freqtrade_analysis_notebook)
+- [ftui](freqtrade_analysis_notebook)
 
 ### Social
 
@@ -78,6 +85,8 @@
 - [Tradingview BTC Market Cap](https://www.tradingview.com/symbols/BTC/?exchange=CRYPTOCAP)
 - [Tensorcharts](https://tensorcharts.com/)
 - [Bitcoin nodes live charts](https://bitnodes.io/nodes/live-map/)
+- [Stash86 R2bot met analyses van algo's](http://ft-dashboard.ddns.net/free.php) [2](https://r2-bot.ddns.net/)
+- [Forex signals](https://www.signalstart.com/analysis/kasuari-ea-22/260818)
 
 ### Education
 
@@ -90,6 +99,14 @@
 - [Investopedia](https://www.investopedia.com/technical-analysis-4689657)
 - [Quantative finance reading list](http://www.quantstart.com/articles/Quantitative-Finance-Reading-List/)
 - [Coin liquidity](https://coinlib.io/liquidity-explained)
+- [Google Scholar on Algotrading and performance analysis](https://scholar.google.nl/scholar?hl=nl&as_sdt=0%2C5&as_vis=1&q=trading+forex+strategy+backup+testing+performance+analysis&btnG=)
+- [machine-learning-course](https://github.com/instillai/machine-learning-course)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ### Programming and scripts
 
